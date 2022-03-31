@@ -18,9 +18,9 @@ public class APCSA {
         /*
         Double and Integer interactions
         */
-        System.out.println(17+5);/* output is a int */ 
-        System.out.println(17.0+5.0);/* output is a double */ 
-        System.out.println(17.0+5);/* output is a double */ 
+        System.out.println(17+5); /* output is a int */ 
+        System.out.println(17.0+5.0); /* output is a double */ 
+        System.out.println(17.0+5); /* output is a double */ 
         System.out.println((double) 6/4);
         System.out.println((int)2.5+3.5);
     }
